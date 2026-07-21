@@ -5,24 +5,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:128AFC,100:6FD3FF&height=200&section=header&text=finaea&fontColor=ffffff&fontSize=72&fontAlignY=36&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20Realtime%20Voice%20AI%20%C2%B7%20Multi-Agent%20Systems&descAlignY=58&descSize=17" width="100%" alt="finaea"/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1000&color=128AFC&center=true&vCenter=true&width=560&lines=Hello%2C+Sensei.+Welcome+to+Kivotos.+%E2%9F%A1;I+build+voice+agents+that+actually+talk+back.;Herding+multi-agent+systems+for+a+living.;Realtime+AI+%C2%B7+low+latency+%C2%B7+good+vibes)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&size=22&pause=1000&color=128AFC&center=true&vCenter=true&width=560&lines=Hello%2C+Sensei.+Welcome+to+Kivotos.+%E2%9F%A1;I+build+voice+agents+that+argue+againsts+you.;Herding+multi-agent+systems+for+a+living.;Realtime+AI+%C2%B7+low+latency+%C2%B7+good+vibes)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ┌────────────────────────────────────────────┐ -->
-<!-- │  CUTE FIGURE SLOT — paste a student render:  │ -->
-<!-- │  <img align="right" width="230" src="..."/>  │ -->
-<!-- └────────────────────────────────────────────┘ -->
+<img align="right" width="230" src="hq720.jpg"/>
 
 ## ⟡ こんにちは、先生
 
-ML engineer somewhere warm in **Kuala Lumpur** ☀️ — mostly teaching machines how to *hold a conversation* over a phone line without sounding like a robot from 2015.
+ML engineer somewhere warm in **Kuala Lumpur** ☀️ — mostly teaching machines how to *hold a conversation* over a phone line
 
-- 🎙️ I live in **realtime voice AI** — agents that listen, think, and reply in under 2 seconds
-- 🧩 **Orchestrating multi-agent systems** + **RAG** that answer real questions (and draw the chart to prove it)
-- 🤝 Past life: **robotics (ROS)** and **VR + haptics** research — even shipped a surgery-training sim
-- 🔧 Weekends: C# / C++ hardware toys, a Scala Vtuber shmup, and other slightly-cursed side quests
-- ☕ Powered by coffee, blue UIs, and the halo above my head
+- 🎙️ I live in **realtime voice AI** — agents that listen, think, and reply in under 2 seconds, never leaves u on read
+- 🧩 **Orchestrating multi-agent systems** + **MCP** that resolves your query just like jarvis  
+- 🤝 Past life: **robotics (ROS)** and **VR + haptics** research — surgery-training sim
+- 🔧 Weekends: Top Down Unity Game, optimizing daily life, and other slightly-cursed side quests
+- ☕ Powered by Milo, blue UIs, and ASMRs
 
 > *Currently advising Schale on latency-shaped problems.* Ping me if the call sounds laggy.
 
@@ -43,7 +40,6 @@ ML engineer somewhere warm in **Kuala Lumpur** ☀️ — mostly teaching machin
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
@@ -51,20 +47,13 @@ ML engineer somewhere warm in **Kuala Lumpur** ☀️ — mostly teaching machin
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## ⟡ Pinned side quests
-
-| ✦ | what it is |
-|---|---|
-| **[halo](https://github.com/finaea/halo)** | Hardware analytics + live overlay — one app to replace the whole Rainmeter/HWiNFO/Afterburner stack |
-| **[monitor-mirror](https://github.com/finaea/monitor-mirror)** | Tiny, no-nonsense display mirroring tool |
-| **[Dragon-Survivor](https://github.com/finaea/Dragon-Survivor)** | Top-down 2D shmup — a Vtuber fan game, in Scala of all things |
-
 ## ⟡ Logbook
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=finaea&show_icons=true&hide_border=true&theme=blueberry&icon_color=6FD3FF&title_color=128AFC" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finaea&layout=compact&hide_border=true&theme=blueberry&title_color=128AFC&langs_count=8" alt="top langs"/>
+<img src="https://streak-stats.demolab.com?user=finaea&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" height="180"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=finaea&bg_color=1a1b27&color=6FD3FF&line=128AFC&point=ffffff&area=true&area_color=128AFC&hide_border=true&custom_title=Contribution%20Halo%20%E2%9F%A1" alt="activity graph" width="100%"/>
 
 </div>
 
